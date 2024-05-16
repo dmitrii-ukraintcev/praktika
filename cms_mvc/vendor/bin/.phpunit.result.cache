@@ -1,0 +1,1 @@
+{"version":1,"defects":{"EmailTest::testCanBeCreatedFromValidEmail":8,"EmailTest::testCannotBeCreatedFromInvalidEmail":7,"EntityTest::testGetAll":8,"EntityTest::testGetByField":8},"times":{"EmailTest::testCanBeCreatedFromValidEmail":0.128,"EmailTest::testCannotBeCreatedFromInvalidEmail":0.016,"EntityTest::testGetAll":0.026,"EntityTest::testGetByField":0}}

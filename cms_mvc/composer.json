@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "classmap": [
+            "src/",
+            "modules/"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11"
+    }
+}
